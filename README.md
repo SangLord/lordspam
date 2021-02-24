@@ -1,2 +1,2 @@
-# noobiespam
+# lordspam
 Script spam sms termux
